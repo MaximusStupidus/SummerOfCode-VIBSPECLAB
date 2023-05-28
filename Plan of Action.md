@@ -13,7 +13,7 @@ Links to their profile pages are available on the GitHub Repository
 Links : 
 https://www.freecodecamp.org/learn/2022/responsive-web-design/
 
-### **WeeK 2 : Git and Github**
+### **Week 2 : Git and Github**
 
 Description : 
 Mentees were asked to explore and make their own respoisitories on GitHub and publish their portfolio pages through Github Pages.
