@@ -1,7 +1,7 @@
 # SummerOfCode, 2023
 
 
-\h1 Plan of Action : E-Commerce Website Development for Vibrational Spectroscopy Lab, Mechanical Department, IIT Bombay
+## Plan of Action : E-Commerce Website Development for Vibrational Spectroscopy Lab, Mechanical Department, IIT Bombay
 
 **Week 1 : HTML CSS JS**
 
