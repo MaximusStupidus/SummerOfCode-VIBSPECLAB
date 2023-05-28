@@ -13,7 +13,7 @@ Links to their profile pages are available on the GitHub Repository
 Links : 
 https://www.freecodecamp.org/learn/2022/responsive-web-design/
 
-### **WEEK 1 : Git and Github**
+### **WeeK 2 : Git and Github**
 
 Description : 
 Mentees were asked to explore and make their own respoisitories on GitHub and publish their portfolio pages through Github Pages.
@@ -23,7 +23,7 @@ Links :
 https://docs.github.com/en
 https://www.youtube.com/watch?v=RGOj5yH7evk
 
-### ** WEEK 3 : Python**
+### **Week 3 : Python**
 
 Description : 
 Mentees were tasked with learning the basics of python from any source of their choice and were given the option of implementing a basic python project of their choice. 
@@ -36,7 +36,7 @@ https://www.w3schools.com/python/python_intro.asp
 https://www.youtube.com/watch?v=kqtD5dpn9C8
 https://www.dataquest.io/blog/python-projects-for-beginners/
 
-### ** WEEK 4 : Docker **
+### **Week 4 : Docker**
 
 Description : 
 Mentees were asked to go through the official documentation of Docker and understand its application in the industry in interface independent software deployment. 
