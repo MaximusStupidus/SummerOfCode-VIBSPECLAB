@@ -5,22 +5,25 @@
 
 ### **Week 1 : HTML CSS JS**
 
-Description : 
+Description : \\ 
 Mentees were exposed to fundamentals of Front End Development using HTML CSS and JS. 
 They were tasked with obtaining certification from Free Code Camp website and design a basic portfolio webpage for all of them. 
 Links to their profile pages are available on the GitHub Repository
 
 Links : 
+\\
 https://www.freecodecamp.org/learn/2022/responsive-web-design/
 
 ### **Week 2 : Git and Github**
 
-Description : 
+Description : \\
 Mentees were asked to explore and make their own respoisitories on GitHub and publish their portfolio pages through Github Pages.
 They were asked to understand the basics of management clients such as Git and Github via Youtube and Google. The links for the same have been attached below.
 
 Links : 
+\\
 https://docs.github.com/en
+\\
 https://www.youtube.com/watch?v=RGOj5yH7evk
 
 ### **Week 3 : Python**
